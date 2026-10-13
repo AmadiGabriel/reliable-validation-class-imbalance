@@ -1,0 +1,13 @@
+name: reliable-validation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.17
+  - numpy=2.4.6
+  - pandas=3.0.6
+  - scipy=1.17.1
+  - scikit-learn=1.9.1
+  - joblib=1.6.0
+  - lightgbm=4.7.0
+  - xgboost=3.4.2
+  - matplotlib=3.10.0

@@ -1,0 +1,721 @@
+problem,classifier,classifier_name,perm_seed,mean_outer_auc,pooled_oof_auc,summary_file
+FP,ada,AdaBoost,1,0.5167562866426503,0.49322323462414575,results_complete/FP/ada/perm/summary_FP_ada_perm_seed001.json
+FP,ada,AdaBoost,2,0.463523051023051,0.48841375025885275,results_complete/FP/ada/perm/summary_FP_ada_perm_seed002.json
+FP,ada,AdaBoost,3,0.5192382007722917,0.5083609442948851,results_complete/FP/ada/perm/summary_FP_ada_perm_seed003.json
+FP,ada,AdaBoost,4,0.5238312613312613,0.5050942224062953,results_complete/FP/ada/perm/summary_FP_ada_perm_seed004.json
+FP,ada,AdaBoost,5,0.521254503072685,0.4977324497825637,results_complete/FP/ada/perm/summary_FP_ada_perm_seed005.json
+FP,ada,AdaBoost,6,0.49011766852675953,0.49845206046800583,results_complete/FP/ada/perm/summary_FP_ada_perm_seed006.json
+FP,ada,AdaBoost,7,0.4852636946386946,0.49461068544212056,results_complete/FP/ada/perm/summary_FP_ada_perm_seed007.json
+FP,ada,AdaBoost,8,0.4538648430693885,0.4705995030026921,results_complete/FP/ada/perm/summary_FP_ada_perm_seed008.json
+FP,ada,AdaBoost,9,0.49109443796943797,0.4912404224477117,results_complete/FP/ada/perm/summary_FP_ada_perm_seed009.json
+FP,ada,AdaBoost,10,0.5081434243366062,0.5043331952785256,results_complete/FP/ada/perm/summary_FP_ada_perm_seed010.json
+FP,ada,AdaBoost,11,0.4443045695886605,0.4869797059432595,results_complete/FP/ada/perm/summary_FP_ada_perm_seed011.json
+FP,ada,AdaBoost,12,0.4643648018648019,0.47661524125077653,results_complete/FP/ada/perm/summary_FP_ada_perm_seed012.json
+FP,ada,AdaBoost,13,0.5222435603117421,0.4923431352246842,results_complete/FP/ada/perm/summary_FP_ada_perm_seed013.json
+FP,ada,AdaBoost,14,0.48687979739116105,0.495076620418306,results_complete/FP/ada/perm/summary_FP_ada_perm_seed014.json
+FP,ada,AdaBoost,15,0.5476963692872785,0.5291209360115966,results_complete/FP/ada/perm/summary_FP_ada_perm_seed015.json
+FP,ada,AdaBoost,16,0.5006533870170233,0.5065489749430524,results_complete/FP/ada/perm/summary_FP_ada_perm_seed016.json
+FP,ada,AdaBoost,17,0.5206416584257493,0.5067560571546905,results_complete/FP/ada/perm/summary_FP_ada_perm_seed017.json
+FP,ada,AdaBoost,18,0.4362147112147112,0.47422344170635744,results_complete/FP/ada/perm/summary_FP_ada_perm_seed018.json
+FP,ada,AdaBoost,19,0.5197473717360082,0.5180109753572169,results_complete/FP/ada/perm/summary_FP_ada_perm_seed019.json
+FP,ada,AdaBoost,20,0.5068237738692284,0.5048353696417478,results_complete/FP/ada/perm/summary_FP_ada_perm_seed020.json
+FP,ada,AdaBoost,21,0.5303429104565469,0.506476496168979,results_complete/FP/ada/perm/summary_FP_ada_perm_seed021.json
+FP,ada,AdaBoost,22,0.5295155076405076,0.5055860426589356,results_complete/FP/ada/perm/summary_FP_ada_perm_seed022.json
+FP,ada,AdaBoost,23,0.4587724564997292,0.49054669703872433,results_complete/FP/ada/perm/summary_FP_ada_perm_seed023.json
+FP,ada,AdaBoost,24,0.48054665242165245,0.49069165458687103,results_complete/FP/ada/perm/summary_FP_ada_perm_seed024.json
+FP,ada,AdaBoost,25,0.4714581714581715,0.49179954441913437,results_complete/FP/ada/perm/summary_FP_ada_perm_seed025.json
+FP,ada,AdaBoost,26,0.5130406630406631,0.5161420583971837,results_complete/FP/ada/perm/summary_FP_ada_perm_seed026.json
+FP,ada,AdaBoost,27,0.629863097760825,0.5591478566991096,results_complete/FP/ada/perm/summary_FP_ada_perm_seed027.json
+FP,ada,AdaBoost,28,0.491846348096348,0.47237523296748807,results_complete/FP/ada/perm/summary_FP_ada_perm_seed028.json
+FP,ada,AdaBoost,29,0.45852934943844026,0.48923690205011394,results_complete/FP/ada/perm/summary_FP_ada_perm_seed029.json
+FP,ada,AdaBoost,30,0.45822649572649576,0.4759111617312073,results_complete/FP/ada/perm/summary_FP_ada_perm_seed030.json
+FP,ada,AdaBoost,31,0.46746309246309253,0.48219610685442127,results_complete/FP/ada/perm/summary_FP_ada_perm_seed031.json
+FP,ada,AdaBoost,32,0.5121914806573897,0.5261648374404639,results_complete/FP/ada/perm/summary_FP_ada_perm_seed032.json
+FP,ada,AdaBoost,33,0.5186302123802123,0.5082884655208117,results_complete/FP/ada/perm/summary_FP_ada_perm_seed033.json
+FP,ada,AdaBoost,34,0.47964235890372253,0.49051045765168777,results_complete/FP/ada/perm/summary_FP_ada_perm_seed034.json
+FP,ada,AdaBoost,35,0.4261137011137011,0.46918098985297163,results_complete/FP/ada/perm/summary_FP_ada_perm_seed035.json
+FP,ada,AdaBoost,36,0.45548352110852114,0.47817871194864364,results_complete/FP/ada/perm/summary_FP_ada_perm_seed036.json
+FP,ada,AdaBoost,37,0.5268868757505121,0.5058863118658107,results_complete/FP/ada/perm/summary_FP_ada_perm_seed037.json
+FP,ada,AdaBoost,38,0.5456384209225119,0.5178297784220335,results_complete/FP/ada/perm/summary_FP_ada_perm_seed038.json
+FP,ada,AdaBoost,39,0.45235498928680756,0.48517809070200874,results_complete/FP/ada/perm/summary_FP_ada_perm_seed039.json
+FP,ada,AdaBoost,40,0.5264928568905842,0.5220853178711948,results_complete/FP/ada/perm/summary_FP_ada_perm_seed040.json
+FP,ada,AdaBoost,41,0.4468413005344824,0.4798509008076207,results_complete/FP/ada/perm/summary_FP_ada_perm_seed041.json
+FP,ada,AdaBoost,42,0.4636954480704481,0.4922758335059018,results_complete/FP/ada/perm/summary_FP_ada_perm_seed042.json
+FP,ada,AdaBoost,43,0.5636764645287373,0.5266514806378132,results_complete/FP/ada/perm/summary_FP_ada_perm_seed043.json
+FP,ada,AdaBoost,44,0.45906265451719996,0.4740836612135017,results_complete/FP/ada/perm/summary_FP_ada_perm_seed044.json
+FP,ada,AdaBoost,45,0.4971861682088955,0.5003831020915304,results_complete/FP/ada/perm/summary_FP_ada_perm_seed045.json
+FP,ada,AdaBoost,46,0.6186567746226836,0.6008697452888796,results_complete/FP/ada/perm/summary_FP_ada_perm_seed046.json
+FP,ada,AdaBoost,47,0.45963422099785733,0.4904431559329054,results_complete/FP/ada/perm/summary_FP_ada_perm_seed047.json
+FP,ada,AdaBoost,48,0.5805935226389771,0.5683267757299648,results_complete/FP/ada/perm/summary_FP_ada_perm_seed048.json
+FP,ada,AdaBoost,49,0.4790646117350663,0.4843601159660385,results_complete/FP/ada/perm/summary_FP_ada_perm_seed049.json
+FP,ada,AdaBoost,50,0.4960966012102375,0.49350797266514806,results_complete/FP/ada/perm/summary_FP_ada_perm_seed050.json
+FP,ada,AdaBoost,51,0.5026480569094205,0.5090857320356181,results_complete/FP/ada/perm/summary_FP_ada_perm_seed051.json
+FP,ada,AdaBoost,52,0.5280141155141156,0.5178556636984883,results_complete/FP/ada/perm/summary_FP_ada_perm_seed052.json
+FP,ada,AdaBoost,53,0.3890166231075322,0.4421256989024642,results_complete/FP/ada/perm/summary_FP_ada_perm_seed053.json
+FP,ada,AdaBoost,54,0.4608658702408702,0.48332470490784846,results_complete/FP/ada/perm/summary_FP_ada_perm_seed054.json
+FP,ada,AdaBoost,55,0.45699962915872006,0.5042348312279976,results_complete/FP/ada/perm/summary_FP_ada_perm_seed055.json
+FP,ada,AdaBoost,56,0.5023008346871983,0.505539449161317,results_complete/FP/ada/perm/summary_FP_ada_perm_seed056.json
+FP,ada,AdaBoost,57,0.5637511478420569,0.5267187823565955,results_complete/FP/ada/perm/summary_FP_ada_perm_seed057.json
+FP,ada,AdaBoost,58,0.518052318052318,0.5002433215986747,results_complete/FP/ada/perm/summary_FP_ada_perm_seed058.json
+FP,ada,AdaBoost,59,0.5349879182265547,0.5088320563263615,results_complete/FP/ada/perm/summary_FP_ada_perm_seed059.json
+FP,ada,AdaBoost,60,0.49013289950789946,0.49547007662041825,results_complete/FP/ada/perm/summary_FP_ada_perm_seed060.json
+FP,ada,AdaBoost,61,0.5316762467330649,0.512015945330296,results_complete/FP/ada/perm/summary_FP_ada_perm_seed061.json
+FP,ada,AdaBoost,62,0.5174650055331873,0.5177728308138331,results_complete/FP/ada/perm/summary_FP_ada_perm_seed062.json
+FP,ada,AdaBoost,63,0.5122790404040404,0.5026817146407123,results_complete/FP/ada/perm/summary_FP_ada_perm_seed063.json
+FP,ada,AdaBoost,64,0.5004280126439218,0.5097432180575688,results_complete/FP/ada/perm/summary_FP_ada_perm_seed064.json
+FP,ada,AdaBoost,65,0.5092723564314473,0.5077759370470076,results_complete/FP/ada/perm/summary_FP_ada_perm_seed065.json
+FP,ada,AdaBoost,66,0.4873113418567964,0.49335783806171046,results_complete/FP/ada/perm/summary_FP_ada_perm_seed066.json
+FP,ada,AdaBoost,67,0.5772522721386357,0.5526972458065852,results_complete/FP/ada/perm/summary_FP_ada_perm_seed067.json
+FP,ada,AdaBoost,68,0.5456420263238446,0.5214123006833713,results_complete/FP/ada/perm/summary_FP_ada_perm_seed068.json
+FP,ada,AdaBoost,69,0.4785070253820255,0.4922810105611928,results_complete/FP/ada/perm/summary_FP_ada_perm_seed069.json
+FP,ada,AdaBoost,70,0.49730227684773143,0.49966866846137914,results_complete/FP/ada/perm/summary_FP_ada_perm_seed070.json
+FP,ada,AdaBoost,71,0.65123415095006,0.6115966038517291,results_complete/FP/ada/perm/summary_FP_ada_perm_seed071.json
+FP,ada,AdaBoost,72,0.5359886746250383,0.53022882584386,results_complete/FP/ada/perm/summary_FP_ada_perm_seed072.json
+FP,ada,AdaBoost,73,0.4683631183631184,0.49502484986539663,results_complete/FP/ada/perm/summary_FP_ada_perm_seed073.json
+FP,ada,AdaBoost,74,0.45174670657625204,0.4713242907434251,results_complete/FP/ada/perm/summary_FP_ada_perm_seed074.json
+FP,ada,AdaBoost,75,0.5404954998704998,0.5526868916960033,results_complete/FP/ada/perm/summary_FP_ada_perm_seed075.json
+FP,ada,AdaBoost,76,0.5912377710673165,0.5396614205839718,results_complete/FP/ada/perm/summary_FP_ada_perm_seed076.json
+FP,ada,AdaBoost,77,0.5510903027948482,0.5134137502588528,results_complete/FP/ada/perm/summary_FP_ada_perm_seed077.json
+FP,ada,AdaBoost,78,0.48885886840432297,0.49800683371298404,results_complete/FP/ada/perm/summary_FP_ada_perm_seed078.json
+FP,ada,AdaBoost,79,0.4709952084952086,0.5039034996893766,results_complete/FP/ada/perm/summary_FP_ada_perm_seed079.json
+FP,ada,AdaBoost,80,0.47212627439900173,0.502510871816111,results_complete/FP/ada/perm/summary_FP_ada_perm_seed080.json
+FP,ada,AdaBoost,81,0.4665290727790728,0.49178401325326154,results_complete/FP/ada/perm/summary_FP_ada_perm_seed081.json
+FP,ada,AdaBoost,82,0.47904393586211763,0.493207703458273,results_complete/FP/ada/perm/summary_FP_ada_perm_seed082.json
+FP,ada,AdaBoost,83,0.4838910668456123,0.4900134603437565,results_complete/FP/ada/perm/summary_FP_ada_perm_seed083.json
+FP,ada,AdaBoost,84,0.4388985278189823,0.4846707392834955,results_complete/FP/ada/perm/summary_FP_ada_perm_seed084.json
+FP,ada,AdaBoost,85,0.563818252454616,0.5366121350176021,results_complete/FP/ada/perm/summary_FP_ada_perm_seed085.json
+FP,ada,AdaBoost,86,0.46314036342445436,0.48980637813211847,results_complete/FP/ada/perm/summary_FP_ada_perm_seed086.json
+FP,ada,AdaBoost,87,0.5598020561088743,0.5346810933940773,results_complete/FP/ada/perm/summary_FP_ada_perm_seed087.json
+FP,ada,AdaBoost,88,0.5490807698194061,0.5225460757920894,results_complete/FP/ada/perm/summary_FP_ada_perm_seed088.json
+FP,ada,AdaBoost,89,0.4848620234983871,0.48663284323876577,results_complete/FP/ada/perm/summary_FP_ada_perm_seed089.json
+FP,ada,AdaBoost,90,0.5612448788585152,0.5465727893973907,results_complete/FP/ada/perm/summary_FP_ada_perm_seed090.json
+FP,lgbm,LightGBM,1,0.5423256457347366,0.5120055912197142,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed001.json
+FP,lgbm,LightGBM,2,0.44644168962350783,0.4754814661420584,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed002.json
+FP,lgbm,LightGBM,3,0.5209813019472109,0.5193880720646097,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed003.json
+FP,lgbm,LightGBM,4,0.4854867144639872,0.4911265272313109,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed004.json
+FP,lgbm,LightGBM,5,0.4921113818841092,0.48854835369641747,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed005.json
+FP,lgbm,LightGBM,6,0.49042861599679793,0.49896976599710086,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed006.json
+FP,lgbm,LightGBM,7,0.47016052129688485,0.48219092979913025,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed007.json
+FP,lgbm,LightGBM,8,0.46752695957241414,0.49743218057568855,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed008.json
+FP,lgbm,LightGBM,9,0.45213395611122886,0.4741561399875751,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed009.json
+FP,lgbm,LightGBM,10,0.41880474323656147,0.4698229447090494,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed010.json
+FP,lgbm,LightGBM,11,0.40758936980527893,0.4347535721681507,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed011.json
+FP,lgbm,LightGBM,12,0.45006386710932167,0.47221474425346865,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed012.json
+FP,lgbm,LightGBM,13,0.5459565056155966,0.5211482708635328,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed013.json
+FP,lgbm,LightGBM,14,0.4545353005580278,0.4687927107061504,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed014.json
+FP,lgbm,LightGBM,15,0.5158637658637658,0.5159763926278733,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed015.json
+FP,lgbm,LightGBM,16,0.5709843187115915,0.5262942638227376,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed016.json
+FP,lgbm,LightGBM,17,0.4951718525582162,0.5129529923379581,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed017.json
+FP,lgbm,LightGBM,18,0.44523402733630013,0.45139780492855663,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed018.json
+FP,lgbm,LightGBM,19,0.5428837471451108,0.5249016359494719,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed019.json
+FP,lgbm,LightGBM,20,0.5433500211909303,0.5236436115137709,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed020.json
+FP,lgbm,LightGBM,21,0.5569173671446399,0.548534893352661,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed021.json
+FP,lgbm,LightGBM,22,0.5539969184855548,0.5331901014702837,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed022.json
+FP,lgbm,LightGBM,23,0.5310006386710933,0.5307724166494098,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed023.json
+FP,lgbm,LightGBM,24,0.4731103282239646,0.4819165458687099,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed024.json
+FP,lgbm,LightGBM,25,0.4753271349862259,0.476356388486229,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed025.json
+FP,lgbm,LightGBM,26,0.4967614666478303,0.5062435286808863,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed026.json
+FP,lgbm,LightGBM,27,0.6246301888347343,0.5557051149306275,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed027.json
+FP,lgbm,LightGBM,28,0.5024684490593582,0.5000362393870367,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed028.json
+FP,lgbm,LightGBM,29,0.44040139153775526,0.45559639676951746,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed029.json
+FP,lgbm,LightGBM,30,0.4667460590756045,0.4777800786912404,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed030.json
+FP,lgbm,LightGBM,31,0.5355532304395941,0.5410954648995651,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed031.json
+FP,lgbm,LightGBM,32,0.4653685750276659,0.4846810933940775,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed032.json
+FP,lgbm,LightGBM,33,0.5500678404087496,0.5402516048871402,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed033.json
+FP,lgbm,LightGBM,34,0.5364549486708577,0.5234675916338787,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed034.json
+FP,lgbm,LightGBM,35,0.4027676973699701,0.44255539449161313,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed035.json
+FP,lgbm,LightGBM,36,0.4844535830331284,0.4864154069165459,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed036.json
+FP,lgbm,LightGBM,37,0.511252972616609,0.5168254296955891,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed037.json
+FP,lgbm,LightGBM,38,0.5808636334204517,0.5548509008076206,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed038.json
+FP,lgbm,LightGBM,39,0.4940653622471804,0.49995858355767236,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed039.json
+FP,lgbm,LightGBM,40,0.5018302194438559,0.49253468627044933,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed040.json
+FP,lgbm,LightGBM,41,0.4731672788490971,0.4985659556844067,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed041.json
+FP,lgbm,LightGBM,42,0.4709675425584516,0.47828225305446265,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed042.json
+FP,lgbm,LightGBM,43,0.5893689959030868,0.5848674673845516,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed043.json
+FP,lgbm,LightGBM,44,0.4566645475736385,0.47731932077034583,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed044.json
+FP,lgbm,LightGBM,45,0.5474774699206517,0.5385121143093808,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed045.json
+FP,lgbm,LightGBM,46,0.5944474612088249,0.5535203975978463,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed046.json
+FP,lgbm,LightGBM,47,0.4377759235713781,0.4508076206253882,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed047.json
+FP,lgbm,LightGBM,48,0.5223442172305809,0.5086353282253054,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed048.json
+FP,lgbm,LightGBM,49,0.5598880706835253,0.541312901221785,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed049.json
+FP,lgbm,LightGBM,50,0.5097831461467826,0.485038310209153,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed050.json
+FP,lgbm,LightGBM,51,0.4597999222999222,0.47141747773866227,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed051.json
+FP,lgbm,LightGBM,52,0.515945586400132,0.5115500103541106,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed052.json
+FP,lgbm,LightGBM,53,0.4801070141979233,0.47986125491820253,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed053.json
+FP,lgbm,LightGBM,54,0.4795761372465918,0.4864361151377096,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed054.json
+FP,lgbm,LightGBM,55,0.42531241906241907,0.4573617726237316,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed055.json
+FP,lgbm,LightGBM,56,0.5376331055308328,0.5205787947815284,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed056.json
+FP,lgbm,LightGBM,57,0.5706708695345059,0.5232708635328225,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed057.json
+FP,lgbm,LightGBM,58,0.5840528684278684,0.5640764133360944,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed058.json
+FP,lgbm,LightGBM,59,0.55256505909915,0.5160851107889832,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed059.json
+FP,lgbm,LightGBM,60,0.48998228202773664,0.4889211016773659,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed060.json
+FP,lgbm,LightGBM,61,0.4581086947564221,0.48028059639676945,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed061.json
+FP,lgbm,LightGBM,62,0.5409607438016529,0.5245703044108512,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed062.json
+FP,lgbm,LightGBM,63,0.43465725141861505,0.4602868088631186,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed063.json
+FP,lgbm,LightGBM,64,0.4707740281603918,0.4741043694346655,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed064.json
+FP,lgbm,LightGBM,65,0.5428621883167338,0.5204079519569269,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed065.json
+FP,lgbm,LightGBM,66,0.5246154729109275,0.5120884241043695,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed066.json
+FP,lgbm,LightGBM,67,0.6201073232323232,0.5808241872023193,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed067.json
+FP,lgbm,LightGBM,68,0.4871566774975866,0.49442948850693724,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed068.json
+FP,lgbm,LightGBM,69,0.4246954539568176,0.4329519569269,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed069.json
+FP,lgbm,LightGBM,70,0.5432724682724682,0.5359598260509422,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed070.json
+FP,lgbm,LightGBM,71,0.5699408861340679,0.5682853592876371,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed071.json
+FP,lgbm,LightGBM,72,0.4803192178192178,0.48230482501553124,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed072.json
+FP,lgbm,LightGBM,73,0.41730526418026415,0.4633050320977427,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed073.json
+FP,lgbm,LightGBM,74,0.39514793918203006,0.4387709670739283,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed074.json
+FP,lgbm,LightGBM,75,0.4760304089849544,0.472380410022779,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed075.json
+FP,lgbm,LightGBM,76,0.5409171846671847,0.5214899565127356,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed076.json
+FP,lgbm,LightGBM,77,0.5811864272091546,0.5640453510043487,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed077.json
+FP,lgbm,LightGBM,78,0.4898479256433802,0.47945226755021747,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed078.json
+FP,lgbm,LightGBM,79,0.5143723805655623,0.48504348726444396,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed079.json
+FP,lgbm,LightGBM,80,0.5386669727578818,0.5261700144957548,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed080.json
+FP,lgbm,LightGBM,81,0.5080772026794754,0.5066525160488714,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed081.json
+FP,lgbm,LightGBM,82,0.4624251695274423,0.4581072685856285,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed082.json
+FP,lgbm,LightGBM,83,0.486119352028443,0.4888279146821288,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed083.json
+FP,lgbm,LightGBM,84,0.46189061359515904,0.4715676123420998,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed084.json
+FP,lgbm,LightGBM,85,0.5226120470438652,0.5067664112652723,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed085.json
+FP,lgbm,LightGBM,86,0.47651956629229353,0.48931455787947814,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed086.json
+FP,lgbm,LightGBM,87,0.5600112429657884,0.5445796231103748,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed087.json
+FP,lgbm,LightGBM,88,0.5484416572484754,0.5330762062538829,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed088.json
+FP,lgbm,LightGBM,89,0.5380193985307622,0.5265686477531579,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed089.json
+FP,lgbm,LightGBM,90,0.523591244613972,0.5132480844895424,results_complete/FP/lgbm/perm/summary_FP_lgbm_perm_seed090.json
+FP,rf,Random Forest,1,0.37366107167243523,0.40157382480844894,results_complete/FP/rf/perm/summary_FP_rf_perm_seed001.json
+FP,rf,Random Forest,2,0.4275688116597208,0.4400859391178298,results_complete/FP/rf/perm/summary_FP_rf_perm_seed002.json
+FP,rf,Random Forest,3,0.5133781727531728,0.4974166494098157,results_complete/FP/rf/perm/summary_FP_rf_perm_seed003.json
+FP,rf,Random Forest,4,0.5137396694214876,0.4848001656657694,results_complete/FP/rf/perm/summary_FP_rf_perm_seed004.json
+FP,rf,Random Forest,5,0.523806832897742,0.5307620625388279,results_complete/FP/rf/perm/summary_FP_rf_perm_seed005.json
+FP,rf,Random Forest,6,0.5192165683642956,0.5143093808241872,results_complete/FP/rf/perm/summary_FP_rf_perm_seed006.json
+FP,rf,Random Forest,7,0.47890567975795245,0.48685545661627666,results_complete/FP/rf/perm/summary_FP_rf_perm_seed007.json
+FP,rf,Random Forest,8,0.535607017141108,0.5685649202733485,results_complete/FP/rf/perm/summary_FP_rf_perm_seed008.json
+FP,rf,Random Forest,9,0.4140439211461939,0.43038931455787943,results_complete/FP/rf/perm/summary_FP_rf_perm_seed009.json
+FP,rf,Random Forest,10,0.47006074733347464,0.4774539242079105,results_complete/FP/rf/perm/summary_FP_rf_perm_seed010.json
+FP,rf,Random Forest,11,0.3970251024228297,0.40950507351418514,results_complete/FP/rf/perm/summary_FP_rf_perm_seed011.json
+FP,rf,Random Forest,12,0.5269258729486002,0.5098726444398426,results_complete/FP/rf/perm/summary_FP_rf_perm_seed012.json
+FP,rf,Random Forest,13,0.5138542328883238,0.5275833505901842,results_complete/FP/rf/perm/summary_FP_rf_perm_seed013.json
+FP,rf,Random Forest,14,0.4476678203950931,0.4570666804721474,results_complete/FP/rf/perm/summary_FP_rf_perm_seed014.json
+FP,rf,Random Forest,15,0.5202167361258271,0.5147183681921723,results_complete/FP/rf/perm/summary_FP_rf_perm_seed015.json
+FP,rf,Random Forest,16,0.5092791257563984,0.5021018844481259,results_complete/FP/rf/perm/summary_FP_rf_perm_seed016.json
+FP,rf,Random Forest,17,0.44893515575333753,0.49116276661834746,results_complete/FP/rf/perm/summary_FP_rf_perm_seed017.json
+FP,rf,Random Forest,18,0.506256622165713,0.49735452474632436,results_complete/FP/rf/perm/summary_FP_rf_perm_seed018.json
+FP,rf,Random Forest,19,0.5318342957547503,0.5366017809070202,results_complete/FP/rf/perm/summary_FP_rf_perm_seed019.json
+FP,rf,Random Forest,20,0.5802867692072237,0.5742545040381031,results_complete/FP/rf/perm/summary_FP_rf_perm_seed020.json
+FP,rf,Random Forest,21,0.6035226242612606,0.5902360737212673,results_complete/FP/rf/perm/summary_FP_rf_perm_seed021.json
+FP,rf,Random Forest,22,0.5442805090532363,0.5432335887347277,results_complete/FP/rf/perm/summary_FP_rf_perm_seed022.json
+FP,rf,Random Forest,23,0.4550573479550752,0.45619175812797685,results_complete/FP/rf/perm/summary_FP_rf_perm_seed023.json
+FP,rf,Random Forest,24,0.47542227343363697,0.5138072064609651,results_complete/FP/rf/perm/summary_FP_rf_perm_seed024.json
+FP,rf,Random Forest,25,0.5037136369522732,0.49602402153655,results_complete/FP/rf/perm/summary_FP_rf_perm_seed025.json
+FP,rf,Random Forest,26,0.4770312389630572,0.45669910954648996,results_complete/FP/rf/perm/summary_FP_rf_perm_seed026.json
+FP,rf,Random Forest,27,0.5231351981351982,0.4871816110996066,results_complete/FP/rf/perm/summary_FP_rf_perm_seed027.json
+FP,rf,Random Forest,28,0.4589653086812178,0.4661990060053841,results_complete/FP/rf/perm/summary_FP_rf_perm_seed028.json
+FP,rf,Random Forest,29,0.471478626592263,0.521334644854007,results_complete/FP/rf/perm/summary_FP_rf_perm_seed029.json
+FP,rf,Random Forest,30,0.49746886110522476,0.4909401532408367,results_complete/FP/rf/perm/summary_FP_rf_perm_seed030.json
+FP,rf,Random Forest,31,0.6087984301052483,0.5659505073514184,results_complete/FP/rf/perm/summary_FP_rf_perm_seed031.json
+FP,rf,Random Forest,32,0.5660419021214477,0.5344947194036033,results_complete/FP/rf/perm/summary_FP_rf_perm_seed032.json
+FP,rf,Random Forest,33,0.5002492877492878,0.497799751501346,results_complete/FP/rf/perm/summary_FP_rf_perm_seed033.json
+FP,rf,Random Forest,34,0.4791052276847732,0.5066473389935804,results_complete/FP/rf/perm/summary_FP_rf_perm_seed034.json
+FP,rf,Random Forest,35,0.4391101428033246,0.4472924000828329,results_complete/FP/rf/perm/summary_FP_rf_perm_seed035.json
+FP,rf,Random Forest,36,0.4531965193897012,0.48052909505073516,results_complete/FP/rf/perm/summary_FP_rf_perm_seed036.json
+FP,rf,Random Forest,37,0.5408552306279579,0.52091530337544,results_complete/FP/rf/perm/summary_FP_rf_perm_seed037.json
+FP,rf,Random Forest,38,0.5101999011089922,0.5181869952371091,results_complete/FP/rf/perm/summary_FP_rf_perm_seed038.json
+FP,rf,Random Forest,39,0.49226832721150904,0.49412921930006215,results_complete/FP/rf/perm/summary_FP_rf_perm_seed039.json
+FP,rf,Random Forest,40,0.5300726525158344,0.5161317042866018,results_complete/FP/rf/perm/summary_FP_rf_perm_seed040.json
+FP,rf,Random Forest,41,0.4873551953097408,0.5005642990267136,results_complete/FP/rf/perm/summary_FP_rf_perm_seed041.json
+FP,rf,Random Forest,42,0.4868142379506016,0.5260820045558087,results_complete/FP/rf/perm/summary_FP_rf_perm_seed042.json
+FP,rf,Random Forest,43,0.5595424672129218,0.5304255539449161,results_complete/FP/rf/perm/summary_FP_rf_perm_seed043.json
+FP,rf,Random Forest,44,0.47232273198182295,0.45154793953199424,results_complete/FP/rf/perm/summary_FP_rf_perm_seed044.json
+FP,rf,Random Forest,45,0.46120580808080813,0.47287740733071026,results_complete/FP/rf/perm/summary_FP_rf_perm_seed045.json
+FP,rf,Random Forest,46,0.5287399048762685,0.5348881756057156,results_complete/FP/rf/perm/summary_FP_rf_perm_seed046.json
+FP,rf,Random Forest,47,0.489683695933696,0.47950921515841793,results_complete/FP/rf/perm/summary_FP_rf_perm_seed047.json
+FP,rf,Random Forest,48,0.5634697057992513,0.555125284738041,results_complete/FP/rf/perm/summary_FP_rf_perm_seed048.json
+FP,rf,Random Forest,49,0.5784324892279438,0.5609339407744874,results_complete/FP/rf/perm/summary_FP_rf_perm_seed049.json
+FP,rf,Random Forest,50,0.49983503449412536,0.4805705114930627,results_complete/FP/rf/perm/summary_FP_rf_perm_seed050.json
+FP,rf,Random Forest,51,0.4754748092816275,0.4545609857113274,results_complete/FP/rf/perm/summary_FP_rf_perm_seed051.json
+FP,rf,Random Forest,52,0.4983250335523063,0.5040691654586871,results_complete/FP/rf/perm/summary_FP_rf_perm_seed052.json
+FP,rf,Random Forest,53,0.5098069859433496,0.4941033340236074,results_complete/FP/rf/perm/summary_FP_rf_perm_seed053.json
+FP,rf,Random Forest,54,0.4323759153304608,0.4863222199213088,results_complete/FP/rf/perm/summary_FP_rf_perm_seed054.json
+FP,rf,Random Forest,55,0.5108031068258342,0.5521795402774902,results_complete/FP/rf/perm/summary_FP_rf_perm_seed055.json
+FP,rf,Random Forest,56,0.5396347654870383,0.5007610271277698,results_complete/FP/rf/perm/summary_FP_rf_perm_seed056.json
+FP,rf,Random Forest,57,0.48711966694921244,0.4614257610271278,results_complete/FP/rf/perm/summary_FP_rf_perm_seed057.json
+FP,rf,Random Forest,58,0.43660093063502153,0.4432335887347276,results_complete/FP/rf/perm/summary_FP_rf_perm_seed058.json
+FP,rf,Random Forest,59,0.5038563814131995,0.5137502588527646,results_complete/FP/rf/perm/summary_FP_rf_perm_seed059.json
+FP,rf,Random Forest,60,0.45710470085470084,0.4824704907848415,results_complete/FP/rf/perm/summary_FP_rf_perm_seed060.json
+FP,rf,Random Forest,61,0.4755264621741895,0.455963967695175,results_complete/FP/rf/perm/summary_FP_rf_perm_seed061.json
+FP,rf,Random Forest,62,0.5454766929198748,0.5754245185338579,results_complete/FP/rf/perm/summary_FP_rf_perm_seed062.json
+FP,rf,Random Forest,63,0.45110362070589344,0.45459204804307307,results_complete/FP/rf/perm/summary_FP_rf_perm_seed063.json
+FP,rf,Random Forest,64,0.48221735125144216,0.47159867467384553,results_complete/FP/rf/perm/summary_FP_rf_perm_seed064.json
+FP,rf,Random Forest,65,0.48017051340914974,0.4860323048250156,results_complete/FP/rf/perm/summary_FP_rf_perm_seed065.json
+FP,rf,Random Forest,66,0.4676366667843941,0.47732449782563674,results_complete/FP/rf/perm/summary_FP_rf_perm_seed066.json
+FP,rf,Random Forest,67,0.5228240299263027,0.5053634292814246,results_complete/FP/rf/perm/summary_FP_rf_perm_seed067.json
+FP,rf,Random Forest,68,0.5033769366155729,0.5065696831642162,results_complete/FP/rf/perm/summary_FP_rf_perm_seed068.json
+FP,rf,Random Forest,69,0.41331452638270827,0.44440360323048256,results_complete/FP/rf/perm/summary_FP_rf_perm_seed069.json
+FP,rf,Random Forest,70,0.48927922876786517,0.4741664940981569,results_complete/FP/rf/perm/summary_FP_rf_perm_seed070.json
+FP,rf,Random Forest,71,0.48419730522003246,0.4786964174777386,results_complete/FP/rf/perm/summary_FP_rf_perm_seed071.json
+FP,rf,Random Forest,72,0.5166381177744814,0.5386829571339822,results_complete/FP/rf/perm/summary_FP_rf_perm_seed072.json
+FP,rf,Random Forest,73,0.5426360781474419,0.5366794367363843,results_complete/FP/rf/perm/summary_FP_rf_perm_seed073.json
+FP,rf,Random Forest,74,0.42661588201360934,0.45916856492027336,results_complete/FP/rf/perm/summary_FP_rf_perm_seed074.json
+FP,rf,Random Forest,75,0.5124426078971533,0.5123110374818803,results_complete/FP/rf/perm/summary_FP_rf_perm_seed075.json
+FP,rf,Random Forest,76,0.5474670951943679,0.5194709049492648,results_complete/FP/rf/perm/summary_FP_rf_perm_seed076.json
+FP,rf,Random Forest,77,0.5394215317510772,0.5455891488921101,results_complete/FP/rf/perm/summary_FP_rf_perm_seed077.json
+FP,rf,Random Forest,78,0.49702355725083003,0.4949471940360323,results_complete/FP/rf/perm/summary_FP_rf_perm_seed078.json
+FP,rf,Random Forest,79,0.4516198553130371,0.45543590805549805,results_complete/FP/rf/perm/summary_FP_rf_perm_seed079.json
+FP,rf,Random Forest,80,0.501582991923901,0.5415406916545868,results_complete/FP/rf/perm/summary_FP_rf_perm_seed080.json
+FP,rf,Random Forest,81,0.5138387811683266,0.5208790639884033,results_complete/FP/rf/perm/summary_FP_rf_perm_seed081.json
+FP,rf,Random Forest,82,0.44233175284311643,0.44847794574446065,results_complete/FP/rf/perm/summary_FP_rf_perm_seed082.json
+FP,rf,Random Forest,83,0.515795116079207,0.5182750051770553,results_complete/FP/rf/perm/summary_FP_rf_perm_seed083.json
+FP,rf,Random Forest,84,0.46936012220103124,0.4709256574860219,results_complete/FP/rf/perm/summary_FP_rf_perm_seed084.json
+FP,rf,Random Forest,85,0.5718321766617221,0.537766618347484,results_complete/FP/rf/perm/summary_FP_rf_perm_seed085.json
+FP,rf,Random Forest,86,0.4711748163452709,0.48545765168772004,results_complete/FP/rf/perm/summary_FP_rf_perm_seed086.json
+FP,rf,Random Forest,87,0.47261094334957976,0.47199213087595776,results_complete/FP/rf/perm/summary_FP_rf_perm_seed087.json
+FP,rf,Random Forest,88,0.48368062913517457,0.4903396148270863,results_complete/FP/rf/perm/summary_FP_rf_perm_seed088.json
+FP,rf,Random Forest,89,0.5216038591038592,0.5309794988610478,results_complete/FP/rf/perm/summary_FP_rf_perm_seed089.json
+FP,rf,Random Forest,90,0.5096175920039556,0.508894180989853,results_complete/FP/rf/perm/summary_FP_rf_perm_seed090.json
+FP,xgb,XGBoost,1,0.4884535182830637,0.49299544419134395,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed001.json
+FP,xgb,XGBoost,2,0.39423753855572036,0.43533340236073725,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed002.json
+FP,xgb,XGBoost,3,0.46816386475477384,0.4787533650859391,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed003.json
+FP,xgb,XGBoost,4,0.507966465352829,0.5203613584593083,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed004.json
+FP,xgb,XGBoost,5,0.5050647794965977,0.49318181818181817,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed005.json
+FP,xgb,XGBoost,6,0.4956930905794542,0.4877976806792296,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed006.json
+FP,xgb,XGBoost,7,0.5281243377834286,0.5098156968316422,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed007.json
+FP,xgb,XGBoost,8,0.5605096713051257,0.5402205425553945,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed008.json
+FP,xgb,XGBoost,9,0.4846540874949966,0.4845309587906399,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed009.json
+FP,xgb,XGBoost,10,0.4783715653033835,0.48931973493476916,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed010.json
+FP,xgb,XGBoost,11,0.45979197570106656,0.4668047214744253,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed011.json
+FP,xgb,XGBoost,12,0.5540040557086013,0.5457703458272933,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed012.json
+FP,xgb,XGBoost,13,0.5070218502036683,0.4946728101056119,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed013.json
+FP,xgb,XGBoost,14,0.46087389041934496,0.466105819010147,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed014.json
+FP,xgb,XGBoost,15,0.5734036165854348,0.5484002899150964,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed015.json
+FP,xgb,XGBoost,16,0.5027208271526453,0.501568647753158,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed016.json
+FP,xgb,XGBoost,17,0.5079246721292175,0.48975978463449993,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed017.json
+FP,xgb,XGBoost,18,0.44781402309811397,0.4766204183060675,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed018.json
+FP,xgb,XGBoost,19,0.5565430676226131,0.5418927314143716,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed019.json
+FP,xgb,XGBoost,20,0.5349080107602834,0.5195899772209567,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed020.json
+FP,xgb,XGBoost,21,0.5588943043488499,0.5281372955063159,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed021.json
+FP,xgb,XGBoost,22,0.5509304142826871,0.5592203354731828,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed022.json
+FP,xgb,XGBoost,23,0.43405625309034396,0.4589355974321806,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed023.json
+FP,xgb,XGBoost,24,0.43886652068470255,0.4525315800372748,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed024.json
+FP,xgb,XGBoost,25,0.4896435950413223,0.48772520190515634,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed025.json
+FP,xgb,XGBoost,26,0.44513270820089,0.4823151791261132,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed026.json
+FP,xgb,XGBoost,27,0.609082079536625,0.5642679643818596,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed027.json
+FP,xgb,XGBoost,28,0.4529356796402251,0.47799751501346033,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed028.json
+FP,xgb,XGBoost,29,0.34630556732829465,0.39954441913439637,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed029.json
+FP,xgb,XGBoost,30,0.484603391137482,0.4961845102505695,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed030.json
+FP,xgb,XGBoost,31,0.49657221986767447,0.5051563470697867,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed031.json
+FP,xgb,XGBoost,32,0.421655364837183,0.4663543176641126,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed032.json
+FP,xgb,XGBoost,33,0.5193745438063619,0.5207289293849658,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed033.json
+FP,xgb,XGBoost,34,0.468340823738551,0.4879581693932491,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed034.json
+FP,xgb,XGBoost,35,0.3725202932589296,0.38590287844274174,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed035.json
+FP,xgb,XGBoost,36,0.4952400608650609,0.48869331124456417,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed036.json
+FP,xgb,XGBoost,37,0.5237113265522357,0.5179074342513978,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed037.json
+FP,xgb,XGBoost,38,0.5352176337971792,0.5352816318078277,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed038.json
+FP,xgb,XGBoost,39,0.4952319671069671,0.4882014909919238,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed039.json
+FP,xgb,XGBoost,40,0.5044808516399426,0.47712776972458065,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed040.json
+FP,xgb,XGBoost,41,0.4804195068399614,0.5097121557258231,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed041.json
+FP,xgb,XGBoost,42,0.585120140801959,0.5411731207289294,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed042.json
+FP,xgb,XGBoost,43,0.5667054431258977,0.540158417891903,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed043.json
+FP,xgb,XGBoost,44,0.4878911492547856,0.4919289708014081,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed044.json
+FP,xgb,XGBoost,45,0.4723799033458125,0.49244149927521225,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed045.json
+FP,xgb,XGBoost,46,0.6100202932589297,0.5780078691240422,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed046.json
+FP,xgb,XGBoost,47,0.3796021108521109,0.4129322841167944,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed047.json
+FP,xgb,XGBoost,48,0.4888182524546161,0.48299337336922754,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed048.json
+FP,xgb,XGBoost,49,0.5562868633891361,0.5556015738248083,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed049.json
+FP,xgb,XGBoost,50,0.47155691530691535,0.4767601987989232,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed050.json
+FP,xgb,XGBoost,51,0.49890888782934234,0.4987367985090081,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed051.json
+FP,xgb,XGBoost,52,0.5711567893386075,0.5337492234417065,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed052.json
+FP,xgb,XGBoost,53,0.42311135833863106,0.43104162352453923,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed053.json
+FP,xgb,XGBoost,54,0.46092914871323964,0.4787430109753572,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed054.json
+FP,xgb,XGBoost,55,0.47812875256057075,0.5027852557465313,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed055.json
+FP,xgb,XGBoost,56,0.4496053925031198,0.4829623110374819,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed056.json
+FP,xgb,XGBoost,57,0.5308454592545502,0.5313367156761234,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed057.json
+FP,xgb,XGBoost,58,0.4912059846718938,0.4861099606543798,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed058.json
+FP,xgb,XGBoost,59,0.4692761678557133,0.47388175605715466,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed059.json
+FP,xgb,XGBoost,60,0.4434933542888088,0.4830969144750466,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed060.json
+FP,xgb,XGBoost,61,0.504798200536837,0.49760820045558085,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed061.json
+FP,xgb,XGBoost,62,0.4716569835888017,0.4844740111824394,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed062.json
+FP,xgb,XGBoost,63,0.5108109798450707,0.5397753158003727,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed063.json
+FP,xgb,XGBoost,64,0.48183216194579825,0.486705322012839,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed064.json
+FP,xgb,XGBoost,65,0.4956249558522286,0.4938600124249327,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed065.json
+FP,xgb,XGBoost,66,0.4734521791339973,0.4961845102505694,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed066.json
+FP,xgb,XGBoost,67,0.5832224488474489,0.5563367156761234,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed067.json
+FP,xgb,XGBoost,68,0.533162334298698,0.5219300062124663,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed068.json
+FP,xgb,XGBoost,69,0.4553206894115984,0.49827086353282257,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed069.json
+FP,xgb,XGBoost,70,0.5362913811777448,0.5235763097949886,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed070.json
+FP,xgb,XGBoost,71,0.5969622654281744,0.5847069786705322,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed071.json
+FP,xgb,XGBoost,72,0.5538017117562571,0.5173327811141023,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed072.json
+FP,xgb,XGBoost,73,0.4980775117138753,0.49425864568233585,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed073.json
+FP,xgb,XGBoost,74,0.4705991294059476,0.49580140815903917,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed074.json
+FP,xgb,XGBoost,75,0.5102288178992724,0.5122126734313522,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed075.json
+FP,xgb,XGBoost,76,0.5066280520825975,0.494765997100849,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed076.json
+FP,xgb,XGBoost,77,0.5469224588542769,0.5245444191343963,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed077.json
+FP,xgb,XGBoost,78,0.5182552506416143,0.5071753986332574,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed078.json
+FP,xgb,XGBoost,79,0.5076210090414637,0.5127096707392835,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed079.json
+FP,xgb,XGBoost,80,0.5615399331308423,0.5547266514806378,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed080.json
+FP,xgb,XGBoost,81,0.5994691230486685,0.5891644232760406,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed081.json
+FP,xgb,XGBoost,82,0.4672119652233288,0.5041985918409608,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed082.json
+FP,xgb,XGBoost,83,0.5206329024510842,0.5014081590391385,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed083.json
+FP,xgb,XGBoost,84,0.43256854677309226,0.4492234417063574,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed084.json
+FP,xgb,XGBoost,85,0.6097924171787807,0.6083764754607579,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed085.json
+FP,xgb,XGBoost,86,0.4971745426290881,0.49578587699316634,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed086.json
+FP,xgb,XGBoost,87,0.5455738915966188,0.5197090494926486,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed087.json
+FP,xgb,XGBoost,88,0.4668509836123472,0.4652464278318492,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed088.json
+FP,xgb,XGBoost,89,0.47069139824821643,0.46664940981569686,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed089.json
+FP,xgb,XGBoost,90,0.47764474582656397,0.49085214330089044,results_complete/FP/xgb/perm/summary_FP_xgb_perm_seed090.json
+FPs,ada,AdaBoost,1,0.46734735172235176,0.48573203561814043,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed001.json
+FPs,ada,AdaBoost,2,0.48290679228179234,0.4843031683578381,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed002.json
+FPs,ada,AdaBoost,3,0.546984780791599,0.518093808241872,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed003.json
+FPs,ada,AdaBoost,4,0.5085543665089121,0.5157434251397806,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed004.json
+FPs,ada,AdaBoost,5,0.45077214452214454,0.48687616483744045,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed005.json
+FPs,ada,AdaBoost,6,0.4897493289538744,0.5039086767446677,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed006.json
+FPs,ada,AdaBoost,7,0.5578095936050481,0.5514029819838476,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed007.json
+FPs,ada,AdaBoost,8,0.4951212297803207,0.5035825222613378,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed008.json
+FPs,ada,AdaBoost,9,0.4639225147747875,0.48124870573617723,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed009.json
+FPs,ada,AdaBoost,10,0.5488559840832569,0.5182698281217644,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed010.json
+FPs,ada,AdaBoost,11,0.465724185326458,0.4854265893559744,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed011.json
+FPs,ada,AdaBoost,12,0.4770056332556333,0.4911368813418928,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed012.json
+FPs,ada,AdaBoost,13,0.4611442219396765,0.48138848622903285,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed013.json
+FPs,ada,AdaBoost,14,0.4746305567328294,0.48504348726444396,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed014.json
+FPs,ada,AdaBoost,15,0.523227687716324,0.5084075377925036,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed015.json
+FPs,ada,AdaBoost,16,0.4822224282451555,0.5004089873679851,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed016.json
+FPs,ada,AdaBoost,17,0.5227583969061241,0.5076154483329882,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed017.json
+FPs,ada,AdaBoost,18,0.5246447575993031,0.5366690826258025,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed018.json
+FPs,ada,AdaBoost,19,0.5444511401897765,0.5273710913232553,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed019.json
+FPs,ada,AdaBoost,20,0.534837742224106,0.5305032097742803,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed020.json
+FPs,ada,AdaBoost,21,0.5288812513244332,0.5195382066680472,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed021.json
+FPs,ada,AdaBoost,22,0.5294777612959432,0.5226910333402361,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed022.json
+FPs,ada,AdaBoost,23,0.5161494019448565,0.5073721267343135,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed023.json
+FPs,ada,AdaBoost,24,0.43574792211155844,0.46672188858977015,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed024.json
+FPs,ada,AdaBoost,25,0.4692192172305808,0.49240525988817563,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed025.json
+FPs,ada,AdaBoost,26,0.4892261042829224,0.4989387036653552,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed026.json
+FPs,ada,AdaBoost,27,0.5229859786677968,0.5176226962103956,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed027.json
+FPs,ada,AdaBoost,28,0.48777489345671154,0.4889884033961483,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed028.json
+FPs,ada,AdaBoost,29,0.4622549798686162,0.46756574860219513,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed029.json
+FPs,ada,AdaBoost,30,0.44089996703633066,0.46177780078691244,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed030.json
+FPs,ada,AdaBoost,31,0.5216003272821454,0.5009163387864982,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed031.json
+FPs,ada,AdaBoost,32,0.4872992747992749,0.49086249741147236,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed032.json
+FPs,ada,AdaBoost,33,0.49795191130418404,0.48980637813211847,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed033.json
+FPs,ada,AdaBoost,34,0.4524778672505946,0.4710861462000414,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed034.json
+FPs,ada,AdaBoost,35,0.48335386204704384,0.4857475667840132,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed035.json
+FPs,ada,AdaBoost,36,0.4679805779237597,0.48798405466970396,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed036.json
+FPs,ada,AdaBoost,37,0.48709943255397803,0.48948022364878857,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed037.json
+FPs,ada,AdaBoost,38,0.49507509535918626,0.49922344170635746,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed038.json
+FPs,ada,AdaBoost,39,0.4815869210755574,0.4815489749430524,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed039.json
+FPs,ada,AdaBoost,40,0.5133027536436627,0.5123628080347897,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed040.json
+FPs,ada,AdaBoost,41,0.4998153887358433,0.4973648788569062,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed041.json
+FPs,ada,AdaBoost,42,0.5701319724046996,0.5463915924622075,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed042.json
+FPs,ada,AdaBoost,43,0.5051471150902969,0.5018275005177055,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed043.json
+FPs,ada,AdaBoost,44,0.47972108909608907,0.47002484986539655,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed044.json
+FPs,ada,AdaBoost,45,0.4978411003979186,0.4955736177262374,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed045.json
+FPs,ada,AdaBoost,46,0.4980368221845494,0.48167322427003517,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed046.json
+FPs,ada,AdaBoost,47,0.5705393091756727,0.5291312901221784,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed047.json
+FPs,ada,AdaBoost,48,0.5329445386263567,0.5175295092151584,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed048.json
+FPs,ada,AdaBoost,49,0.44288470368015825,0.47126216607993365,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed049.json
+FPs,ada,AdaBoost,50,0.5029546631819359,0.4980948436529302,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed050.json
+FPs,ada,AdaBoost,51,0.5128344193685104,0.49662455995030025,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed051.json
+FPs,ada,AdaBoost,52,0.474147065056156,0.484209981362601,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed052.json
+FPs,ada,AdaBoost,53,0.5141776888935979,0.503126941395734,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed053.json
+FPs,ada,AdaBoost,54,0.4940416696098514,0.49821909297991307,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed054.json
+FPs,ada,AdaBoost,55,0.5012377563513927,0.4983951128598053,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed055.json
+FPs,ada,AdaBoost,56,0.5167526812413176,0.5264185131497203,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed056.json
+FPs,ada,AdaBoost,57,0.582096607096607,0.561285980534272,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed057.json
+FPs,ada,AdaBoost,58,0.5487697487697487,0.5237575067301719,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed058.json
+FPs,ada,AdaBoost,59,0.5184092527842529,0.5165562228204599,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed059.json
+FPs,ada,AdaBoost,60,0.49397191613100705,0.4869641747773866,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed060.json
+FPs,ada,AdaBoost,61,0.5401154611381884,0.526045765168772,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed061.json
+FPs,ada,AdaBoost,62,0.5439778025005296,0.5155829364257609,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed062.json
+FPs,ada,AdaBoost,63,0.48919895340349895,0.4908780285773452,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed063.json
+FPs,ada,AdaBoost,64,0.4780864442796261,0.49978774073307103,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed064.json
+FPs,ada,AdaBoost,65,0.37114229415365785,0.4425036239387037,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed065.json
+FPs,ada,AdaBoost,66,0.5313040074403711,0.5186581072685856,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed066.json
+FPs,ada,AdaBoost,67,0.5251829189329189,0.5089148892110168,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed067.json
+FPs,ada,AdaBoost,68,0.5188872995691177,0.5085680265065231,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed068.json
+FPs,ada,AdaBoost,69,0.46328752266252266,0.4878287430109754,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed069.json
+FPs,ada,AdaBoost,70,0.4882373413623413,0.49128701594533025,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed070.json
+FPs,ada,AdaBoost,71,0.52808843092934,0.5110012424932698,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed071.json
+FPs,ada,AdaBoost,72,0.5114219114219114,0.5058759577552288,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed072.json
+FPs,ada,AdaBoost,73,0.4766254473640837,0.48398219092979916,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed073.json
+FPs,ada,AdaBoost,74,0.570608474017565,0.5237316214537171,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed074.json
+FPs,ada,AdaBoost,75,0.504895178474724,0.5013926278732658,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed075.json
+FPs,ada,AdaBoost,76,0.460537925878835,0.49403085524953405,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed076.json
+FPs,ada,AdaBoost,77,0.5482460826210827,0.5304928556636985,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed077.json
+FPs,ada,AdaBoost,78,0.5819654882154882,0.5561917581279767,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed078.json
+FPs,ada,AdaBoost,79,0.4813317469567469,0.49655208117622696,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed079.json
+FPs,ada,AdaBoost,80,0.5459530473735019,0.5272313108303996,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed080.json
+FPs,ada,AdaBoost,81,0.4932688628711356,0.49418098985297165,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed081.json
+FPs,ada,AdaBoost,82,0.44770490452308626,0.4872489128183889,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed082.json
+FPs,ada,AdaBoost,83,0.5020434531798168,0.5015582936425761,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed083.json
+FPs,ada,AdaBoost,84,0.45030020484565936,0.47010768275005177,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed084.json
+FPs,ada,AdaBoost,85,0.4745084881448518,0.49895941188651893,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed085.json
+FPs,ada,AdaBoost,86,0.49943998551953095,0.49874715261958996,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed086.json
+FPs,ada,AdaBoost,87,0.5275338613406795,0.5220076620418306,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed087.json
+FPs,ada,AdaBoost,88,0.48543005815733087,0.4969403603230482,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed088.json
+FPs,ada,AdaBoost,89,0.5602872401167855,0.5184251397804929,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed089.json
+FPs,ada,AdaBoost,90,0.4787416707871254,0.49132843238765794,results_complete/FPs/ada/perm/summary_FPs_ada_perm_seed090.json
+FPs,lgbm,LightGBM,1,0.49472603364648815,0.4995185338579416,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed001.json
+FPs,lgbm,LightGBM,2,0.485662864071955,0.4870521847173328,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed002.json
+FPs,lgbm,LightGBM,3,0.5309117544912999,0.5356336715676123,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed003.json
+FPs,lgbm,LightGBM,4,0.4910534541216359,0.5018740940153241,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed004.json
+FPs,lgbm,LightGBM,5,0.46357735278189827,0.4662041830606751,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed005.json
+FPs,lgbm,LightGBM,6,0.5173584622448258,0.5014029819838476,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed006.json
+FPs,lgbm,LightGBM,7,0.4519595724141179,0.4614723545247463,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed007.json
+FPs,lgbm,LightGBM,8,0.5078188646370465,0.5107320356181404,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed008.json
+FPs,lgbm,LightGBM,9,0.44142922523604344,0.4463449989645889,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed009.json
+FPs,lgbm,LightGBM,10,0.5350097713734078,0.5217695174984469,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed010.json
+FPs,lgbm,LightGBM,11,0.42119321125002945,0.4521484779457444,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed011.json
+FPs,lgbm,LightGBM,12,0.45938949518494976,0.4841219714226549,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed012.json
+FPs,lgbm,LightGBM,13,0.5662883202655931,0.5583298819631393,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed013.json
+FPs,lgbm,LightGBM,14,0.44764824821643,0.4688858977013875,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed014.json
+FPs,lgbm,LightGBM,15,0.49825557439193807,0.49831745703044106,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed015.json
+FPs,lgbm,LightGBM,16,0.5124954380636199,0.5054825015531166,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed016.json
+FPs,lgbm,LightGBM,17,0.4882402109674837,0.5056015738248084,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed017.json
+FPs,lgbm,LightGBM,18,0.5051805202373384,0.504700766204183,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed018.json
+FPs,lgbm,LightGBM,19,0.6437524281274281,0.5903189066059226,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed019.json
+FPs,lgbm,LightGBM,20,0.5694061830425466,0.5459826050942225,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed020.json
+FPs,lgbm,LightGBM,21,0.5365895257940713,0.5133412714847794,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed021.json
+FPs,lgbm,LightGBM,22,0.555556364931365,0.5413387864982399,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed022.json
+FPs,lgbm,LightGBM,23,0.5887262043512044,0.5724166494098157,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed023.json
+FPs,lgbm,LightGBM,24,0.48456329024510847,0.49555290950507364,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed024.json
+FPs,lgbm,LightGBM,25,0.4773847890325163,0.48521433008904535,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed025.json
+FPs,lgbm,LightGBM,26,0.45856010571919664,0.4755953613584593,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed026.json
+FPs,lgbm,LightGBM,27,0.5299245367427186,0.517353489335266,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed027.json
+FPs,lgbm,LightGBM,28,0.47157648748557845,0.4753882791468213,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed028.json
+FPs,lgbm,LightGBM,29,0.46980498457771186,0.4805912197142266,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed029.json
+FPs,lgbm,LightGBM,30,0.4789189240893787,0.5062279975150135,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed030.json
+FPs,lgbm,LightGBM,31,0.4776207588707589,0.48212880513563877,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed031.json
+FPs,lgbm,LightGBM,32,0.498828612464976,0.5112186788154898,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed032.json
+FPs,lgbm,LightGBM,33,0.5606874396647124,0.5525885276454752,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed033.json
+FPs,lgbm,LightGBM,34,0.5362052194438558,0.5240733071029198,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed034.json
+FPs,lgbm,LightGBM,35,0.43595475442066356,0.461089252433216,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed035.json
+FPs,lgbm,LightGBM,36,0.5364995379199924,0.5276972458065853,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed036.json
+FPs,lgbm,LightGBM,37,0.49271341032704663,0.4814402567819424,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed037.json
+FPs,lgbm,LightGBM,38,0.5143411828070918,0.4882014909919238,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed038.json
+FPs,lgbm,LightGBM,39,0.4655896082032445,0.48525574653137304,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed039.json
+FPs,lgbm,LightGBM,40,0.5237868192413647,0.49879892317249946,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed040.json
+FPs,lgbm,LightGBM,41,0.5375918273645546,0.522380410022779,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed041.json
+FPs,lgbm,LightGBM,42,0.581381118881119,0.5248239801201077,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed042.json
+FPs,lgbm,LightGBM,43,0.5387621112052929,0.5281890660592256,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed043.json
+FPs,lgbm,LightGBM,44,0.4817699135880954,0.48072582315179124,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed044.json
+FPs,lgbm,LightGBM,45,0.47627947599538506,0.4861824394284531,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed045.json
+FPs,lgbm,LightGBM,46,0.4860093504979869,0.5057879478152827,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed046.json
+FPs,lgbm,LightGBM,47,0.45385910385910383,0.4569165458687099,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed047.json
+FPs,lgbm,LightGBM,48,0.5194053000871183,0.5271795402774901,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed048.json
+FPs,lgbm,LightGBM,49,0.54088326446281,0.5187202319320771,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed049.json
+FPs,lgbm,LightGBM,50,0.5323205834569471,0.5138641540691654,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed050.json
+FPs,lgbm,LightGBM,51,0.467813110710838,0.4772157796645267,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed051.json
+FPs,lgbm,LightGBM,52,0.46383282121918495,0.4836353282253054,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed052.json
+FPs,lgbm,LightGBM,53,0.5151807262602717,0.5044470904949265,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed053.json
+FPs,lgbm,LightGBM,54,0.5160565444656353,0.49766514806378137,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed054.json
+FPs,lgbm,LightGBM,55,0.5249700530950532,0.5179436736384344,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed055.json
+FPs,lgbm,LightGBM,56,0.45086198523698523,0.4673017187823566,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed056.json
+FPs,lgbm,LightGBM,57,0.5866651656424384,0.5685390349968937,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed057.json
+FPs,lgbm,LightGBM,58,0.527915886722705,0.5215624352868089,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed058.json
+FPs,lgbm,LightGBM,59,0.5296697305220033,0.5095309587906399,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed059.json
+FPs,lgbm,LightGBM,60,0.5453940630076993,0.5220490784841582,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed060.json
+FPs,lgbm,LightGBM,61,0.43197005015186835,0.43994098156968314,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed061.json
+FPs,lgbm,LightGBM,62,0.5700556703397612,0.5396562435286808,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed062.json
+FPs,lgbm,LightGBM,63,0.4403269289632926,0.4569838475874923,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed063.json
+FPs,lgbm,LightGBM,64,0.4527787343128252,0.4400962932284117,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed064.json
+FPs,lgbm,LightGBM,65,0.44404652586470766,0.4556585214330089,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed065.json
+FPs,lgbm,LightGBM,66,0.5301460849756305,0.5321443363015117,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed066.json
+FPs,lgbm,LightGBM,67,0.5399598402439312,0.5494822944709049,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed067.json
+FPs,lgbm,LightGBM,68,0.5096480539662357,0.5110064195485607,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed068.json
+FPs,lgbm,LightGBM,69,0.38928092109910295,0.4434820873886933,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed069.json
+FPs,lgbm,LightGBM,70,0.534493536766264,0.5186839925450404,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed070.json
+FPs,lgbm,LightGBM,71,0.5734535771467589,0.5360737212673431,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed071.json
+FPs,lgbm,LightGBM,72,0.49141369993642725,0.48321080969144753,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed072.json
+FPs,lgbm,LightGBM,73,0.45789980221798404,0.47257713812383517,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed073.json
+FPs,lgbm,LightGBM,74,0.504494463869464,0.5059225512528474,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed074.json
+FPs,lgbm,LightGBM,75,0.4416866803230439,0.46931041623524544,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed075.json
+FPs,lgbm,LightGBM,76,0.487902774834593,0.49549078484158215,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed076.json
+FPs,lgbm,LightGBM,77,0.6317488698170516,0.5882636156554152,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed077.json
+FPs,lgbm,LightGBM,78,0.5481447634856725,0.5295713398219093,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed078.json
+FPs,lgbm,LightGBM,79,0.5290540162699254,0.5156139987575068,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed079.json
+FPs,lgbm,LightGBM,80,0.46979483059028515,0.4774487471526196,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed080.json
+FPs,lgbm,LightGBM,81,0.49852627381036474,0.4997049078484158,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed081.json
+FPs,lgbm,LightGBM,82,0.4342101816533635,0.46850279560985714,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed082.json
+FPs,lgbm,LightGBM,83,0.5780291257563985,0.5525626423690205,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed083.json
+FPs,lgbm,LightGBM,84,0.4572387629205811,0.4733381652516049,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed084.json
+FPs,lgbm,LightGBM,85,0.4937317522544795,0.5052961275626423,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed085.json
+FPs,lgbm,LightGBM,86,0.5170522238704056,0.5106026092358666,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed086.json
+FPs,lgbm,LightGBM,87,0.4594929481293117,0.4810675088009939,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed087.json
+FPs,lgbm,LightGBM,88,0.5262669674601492,0.5185959826050942,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed088.json
+FPs,lgbm,LightGBM,89,0.574571251559888,0.5438600124249326,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed089.json
+FPs,lgbm,LightGBM,90,0.5201487485578394,0.5185545661627666,results_complete/FPs/lgbm/perm/summary_FPs_lgbm_perm_seed090.json
+FPs,rf,Random Forest,1,0.5185366926844199,0.5255021743632222,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed001.json
+FPs,rf,Random Forest,2,0.4637148730898731,0.4746479602402154,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed002.json
+FPs,rf,Random Forest,3,0.48011488721715995,0.473120728929385,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed003.json
+FPs,rf,Random Forest,4,0.496799728049728,0.4988921101677366,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed004.json
+FPs,rf,Random Forest,5,0.46899060535424175,0.466737419755643,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed005.json
+FPs,rf,Random Forest,6,0.4843407854771491,0.48500724787740734,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed006.json
+FPs,rf,Random Forest,7,0.4710835040380495,0.4477065645061089,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed007.json
+FPs,rf,Random Forest,8,0.4890898348284713,0.4954648995651273,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed008.json
+FPs,rf,Random Forest,9,0.509775493866403,0.5121919652101885,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed009.json
+FPs,rf,Random Forest,10,0.4963150590991501,0.5040225719610686,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed010.json
+FPs,rf,Random Forest,11,0.446457067763886,0.4283857941602816,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed011.json
+FPs,rf,Random Forest,12,0.514444856490311,0.5190515634706978,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed012.json
+FPs,rf,Random Forest,13,0.5242488256692803,0.5046645268171465,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed013.json
+FPs,rf,Random Forest,14,0.4567635857408584,0.4366587285152206,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed014.json
+FPs,rf,Random Forest,15,0.5974716571307481,0.6096966245599504,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed015.json
+FPs,rf,Random Forest,16,0.4830252554684373,0.4949161317042866,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed016.json
+FPs,rf,Random Forest,17,0.5231296060841515,0.5218782356595568,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed017.json
+FPs,rf,Random Forest,18,0.5020669250782887,0.5214071236280804,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed018.json
+FPs,rf,Random Forest,19,0.49953159214522846,0.48081383309173736,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed019.json
+FPs,rf,Random Forest,20,0.5463659761955217,0.5709256574860219,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed020.json
+FPs,rf,Random Forest,21,0.49458674742765646,0.49613791675295094,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed021.json
+FPs,rf,Random Forest,22,0.5899999411363047,0.5686115137709671,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed022.json
+FPs,rf,Random Forest,23,0.4805063307904217,0.48109857113273957,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed023.json
+FPs,rf,Random Forest,24,0.4567484283393375,0.4690049699730793,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed024.json
+FPs,rf,Random Forest,25,0.5304392261778625,0.5039086767446677,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed025.json
+FPs,rf,Random Forest,26,0.48017389807162536,0.4847846344998964,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed026.json
+FPs,rf,Random Forest,27,0.5359303995667632,0.5293953199420169,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed027.json
+FPs,rf,Random Forest,28,0.45546269807633444,0.4353955270242286,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed028.json
+FPs,rf,Random Forest,29,0.487036889877799,0.4985038310209153,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed029.json
+FPs,rf,Random Forest,30,0.5108810276423913,0.4973597018016153,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed030.json
+FPs,rf,Random Forest,31,0.5263554101622283,0.5231673224270035,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed031.json
+FPs,rf,Random Forest,32,0.4731948712062349,0.4822478774073307,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed032.json
+FPs,rf,Random Forest,33,0.47100933578206305,0.4740267136053013,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed033.json
+FPs,rf,Random Forest,34,0.48816523333568795,0.46862704493683993,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed034.json
+FPs,rf,Random Forest,35,0.4380110840338113,0.46298405466970394,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed035.json
+FPs,rf,Random Forest,36,0.5041108933154388,0.5038310209153033,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed036.json
+FPs,rf,Random Forest,37,0.5447889442207623,0.5281631807827707,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed037.json
+FPs,rf,Random Forest,38,0.537982608721245,0.5170376889625181,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed038.json
+FPs,rf,Random Forest,39,0.5318201684678957,0.5104369434665562,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed039.json
+FPs,rf,Random Forest,40,0.45779274387228935,0.4714330089045351,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed040.json
+FPs,rf,Random Forest,41,0.5081801405665042,0.5070615034168565,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed041.json
+FPs,rf,Random Forest,42,0.5001531927668291,0.48678297784220337,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed042.json
+FPs,rf,Random Forest,43,0.5620275452661817,0.5607941602816318,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed043.json
+FPs,rf,Random Forest,44,0.4760017129335311,0.486192793539035,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed044.json
+FPs,rf,Random Forest,45,0.5007006987120624,0.47848933526610055,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed045.json
+FPs,rf,Random Forest,46,0.582835272892091,0.5565645061089253,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed046.json
+FPs,rf,Random Forest,47,0.5024656530338348,0.48730068337129834,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed047.json
+FPs,rf,Random Forest,48,0.5102558216194579,0.5303013046179332,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed048.json
+FPs,rf,Random Forest,49,0.4753767276494549,0.45409505073514184,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed049.json
+FPs,rf,Random Forest,50,0.495240355183537,0.5053841375025885,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed050.json
+FPs,rf,Random Forest,51,0.4609672629558993,0.46337751087181606,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed051.json
+FPs,rf,Random Forest,52,0.4776089861317134,0.47174880927728313,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed052.json
+FPs,rf,Random Forest,53,0.4795308857808858,0.4548664319734934,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed053.json
+FPs,rf,Random Forest,54,0.4635209907937181,0.48214433630151166,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed054.json
+FPs,rf,Random Forest,55,0.48582245826564013,0.47971112031476504,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed055.json
+FPs,rf,Random Forest,56,0.49682481869981865,0.4849037067715883,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed056.json
+FPs,rf,Random Forest,57,0.508720288549834,0.5060675088009939,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed057.json
+FPs,rf,Random Forest,58,0.41110507758235026,0.44061917581279764,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed058.json
+FPs,rf,Random Forest,59,0.4580100244872972,0.4595413129012218,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed059.json
+FPs,rf,Random Forest,60,0.5271419762897036,0.49860737212673434,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed060.json
+FPs,rf,Random Forest,61,0.46909744296107936,0.4671153447918824,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed061.json
+FPs,rf,Random Forest,62,0.48917018377245647,0.49343031683578387,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed062.json
+FPs,rf,Random Forest,63,0.477532684066775,0.48340236073721277,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed063.json
+FPs,rf,Random Forest,64,0.5363208130253585,0.554918202526403,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed064.json
+FPs,rf,Random Forest,65,0.4697416325257235,0.47024228618761643,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed065.json
+FPs,rf,Random Forest,66,0.48522683124955857,0.522282045972251,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed066.json
+FPs,rf,Random Forest,67,0.4463080690353417,0.467260302340029,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed067.json
+FPs,rf,Random Forest,68,0.44621388712297805,0.49757196106854423,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed068.json
+FPs,rf,Random Forest,69,0.46337015257469805,0.48715572582315175,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed069.json
+FPs,rf,Random Forest,70,0.520406130065221,0.5416856492027335,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed070.json
+FPs,rf,Random Forest,71,0.5015979285865649,0.5053116587285152,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed071.json
+FPs,rf,Random Forest,72,0.5411385857408584,0.5283650859391178,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed072.json
+FPs,rf,Random Forest,73,0.5709481175390266,0.546655622282046,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed073.json
+FPs,rf,Random Forest,74,0.5562699400767583,0.5424880927728308,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed074.json
+FPs,rf,Random Forest,75,0.4735307621671258,0.4534789811555187,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed075.json
+FPs,rf,Random Forest,76,0.4668392108733018,0.47735038310209155,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed076.json
+FPs,rf,Random Forest,77,0.5216646358691813,0.5084178919030855,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed077.json
+FPs,rf,Random Forest,78,0.49110738798238807,0.48342824601366746,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed078.json
+FPs,rf,Random Forest,79,0.4883775105366014,0.4712725201905157,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed079.json
+FPs,rf,Random Forest,80,0.53051332085423,0.5205632636156554,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed080.json
+FPs,rf,Random Forest,81,0.5073754002731276,0.47952474632429065,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed081.json
+FPs,rf,Random Forest,82,0.4983396758964941,0.4757817353489335,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed082.json
+FPs,rf,Random Forest,83,0.5413295248522522,0.5322012839097121,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed083.json
+FPs,rf,Random Forest,84,0.5358833086105813,0.5432646510664734,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed084.json
+FPs,rf,Random Forest,85,0.5303081808763626,0.529493683992545,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed085.json
+FPs,rf,Random Forest,86,0.4915869799392527,0.5207341064402567,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed086.json
+FPs,rf,Random Forest,87,0.46933753325798777,0.47539863325740317,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed087.json
+FPs,rf,Random Forest,88,0.473221065550611,0.47004038103126944,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed088.json
+FPs,rf,Random Forest,89,0.45179100150691054,0.46490474218264655,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed089.json
+FPs,rf,Random Forest,90,0.5160248316498317,0.47866017809070205,results_complete/FPs/rf/perm/summary_FPs_rf_perm_seed090.json
+FPs,xgb,XGBoost,1,0.5174865643615643,0.49831745703044117,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed001.json
+FPs,xgb,XGBoost,2,0.5084406124178851,0.4827138123835162,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed002.json
+FPs,xgb,XGBoost,3,0.5056838048315322,0.5109598260509423,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed003.json
+FPs,xgb,XGBoost,4,0.5185763520990794,0.5139884033961483,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed004.json
+FPs,xgb,XGBoost,5,0.4736816003861458,0.4832056326361565,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed005.json
+FPs,xgb,XGBoost,6,0.5104643462598009,0.5085266100641955,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed006.json
+FPs,xgb,XGBoost,7,0.4861717407171954,0.4693725408987368,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed007.json
+FPs,xgb,XGBoost,8,0.5030666513621058,0.49946676330503215,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed008.json
+FPs,xgb,XGBoost,9,0.4585144127757764,0.45933423068958373,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed009.json
+FPs,xgb,XGBoost,10,0.4510666101575193,0.46293746117208534,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed010.json
+FPs,xgb,XGBoost,11,0.5049299080549081,0.5053116587285152,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed011.json
+FPs,xgb,XGBoost,12,0.4898742671469945,0.5041054048457237,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed012.json
+FPs,xgb,XGBoost,13,0.4638145734736644,0.4638693311244564,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed013.json
+FPs,xgb,XGBoost,14,0.49735944821172084,0.4952008697452889,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed014.json
+FPs,xgb,XGBoost,15,0.5110760872124509,0.49838993580451435,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed015.json
+FPs,xgb,XGBoost,16,0.5471124414306233,0.5507920894595154,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed016.json
+FPs,xgb,XGBoost,17,0.5010975135975135,0.5134292814247255,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed017.json
+FPs,xgb,XGBoost,18,0.48736880753926215,0.5129219300062124,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed018.json
+FPs,xgb,XGBoost,19,0.5173379335311152,0.5258542141230068,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed019.json
+FPs,xgb,XGBoost,20,0.5019397059169788,0.5165769310416235,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed020.json
+FPs,xgb,XGBoost,21,0.5651534282216101,0.5377459101263202,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed021.json
+FPs,xgb,XGBoost,22,0.5906664989051353,0.5674570304410851,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed022.json
+FPs,xgb,XGBoost,23,0.49959516493607403,0.52363843445848,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed023.json
+FPs,xgb,XGBoost,24,0.5177325410279956,0.49579105404845725,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed024.json
+FPs,xgb,XGBoost,25,0.4537919256669257,0.45733588734727687,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed025.json
+FPs,xgb,XGBoost,26,0.44895458077276257,0.4724994822944709,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed026.json
+FPs,xgb,XGBoost,27,0.563725542134633,0.5620780699937875,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed027.json
+FPs,xgb,XGBoost,28,0.4832437133573496,0.4870573617726237,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed028.json
+FPs,xgb,XGBoost,29,0.4011362164771256,0.4103748188030648,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed029.json
+FPs,xgb,XGBoost,30,0.5339633956111228,0.5288361979705943,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed030.json
+FPs,xgb,XGBoost,31,0.5623239975512704,0.5506160695796231,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed031.json
+FPs,xgb,XGBoost,32,0.42261175272538914,0.4530285773452061,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed032.json
+FPs,xgb,XGBoost,33,0.5285288785288784,0.5280337544004969,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed033.json
+FPs,xgb,XGBoost,34,0.5284110775588049,0.507537792503624,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed034.json
+FPs,xgb,XGBoost,35,0.4298616261684443,0.4460550838682956,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed035.json
+FPs,xgb,XGBoost,36,0.4801977378681925,0.473741975564299,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed036.json
+FPs,xgb,XGBoost,37,0.48524802217984037,0.4853334023607372,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed037.json
+FPs,xgb,XGBoost,38,0.5663800740505286,0.543513149720439,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed038.json
+FPs,xgb,XGBoost,39,0.436694450330814,0.45156347069786706,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed039.json
+FPs,xgb,XGBoost,40,0.49596327494054765,0.49608614620004143,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed040.json
+FPs,xgb,XGBoost,41,0.5633271820771821,0.5449937875336509,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed041.json
+FPs,xgb,XGBoost,42,0.5530575274893457,0.5449937875336509,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed042.json
+FPs,xgb,XGBoost,43,0.5202502148524875,0.5369486436115137,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed043.json
+FPs,xgb,XGBoost,44,0.5249474641520097,0.5030596396769517,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed044.json
+FPs,xgb,XGBoost,45,0.4338553807303807,0.46879271070615036,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed045.json
+FPs,xgb,XGBoost,46,0.5085897583056674,0.5128080347898115,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed046.json
+FPs,xgb,XGBoost,47,0.4562404346495256,0.45713398219092977,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed047.json
+FPs,xgb,XGBoost,48,0.5382360905088179,0.5319786705322012,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed048.json
+FPs,xgb,XGBoost,49,0.522424345435709,0.5012373162145372,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed049.json
+FPs,xgb,XGBoost,50,0.44198673800946525,0.44017394905777596,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed050.json
+FPs,xgb,XGBoost,51,0.460656462645099,0.4703665355145993,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed051.json
+FPs,xgb,XGBoost,52,0.5238315556497375,0.5042296541727066,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed052.json
+FPs,xgb,XGBoost,53,0.43574777495232037,0.462238558707807,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed053.json
+FPs,xgb,XGBoost,54,0.4881355071695981,0.47842203354731827,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed054.json
+FPs,xgb,XGBoost,55,0.4593591803819076,0.4913802029405674,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed055.json
+FPs,xgb,XGBoost,56,0.47257783252101443,0.48342824601366746,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed056.json
+FPs,xgb,XGBoost,57,0.5044553930917568,0.5193828950093187,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed057.json
+FPs,xgb,XGBoost,58,0.46881820830684473,0.48863636363636365,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed058.json
+FPs,xgb,XGBoost,59,0.5044701825951826,0.5114361151377097,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed059.json
+FPs,xgb,XGBoost,60,0.44845909561818653,0.46399358045143924,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed060.json
+FPs,xgb,XGBoost,61,0.5097025764639401,0.4982449782563677,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed061.json
+FPs,xgb,XGBoost,62,0.4636178215723669,0.4654276247670325,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed062.json
+FPs,xgb,XGBoost,63,0.4419054325304326,0.47699834334230684,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed063.json
+FPs,xgb,XGBoost,64,0.4778975653975654,0.48430834541312895,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed064.json
+FPs,xgb,XGBoost,65,0.4519110098655553,0.4550735141851315,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed065.json
+FPs,xgb,XGBoost,66,0.5279252313343222,0.5095309587906398,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed066.json
+FPs,xgb,XGBoost,67,0.4840229951025405,0.5159712155725823,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed067.json
+FPs,xgb,XGBoost,68,0.5265341350568623,0.5266928970801408,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed068.json
+FPs,xgb,XGBoost,69,0.41055484919121277,0.44334748395112855,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed069.json
+FPs,xgb,XGBoost,70,0.5229430081702808,0.5186529302132947,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed070.json
+FPs,xgb,XGBoost,71,0.5396123972828517,0.5277593704700767,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed071.json
+FPs,xgb,XGBoost,72,0.5302800734618918,0.5188444812590599,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed072.json
+FPs,xgb,XGBoost,73,0.44284681017635563,0.46793331952785255,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed073.json
+FPs,xgb,XGBoost,74,0.5732396076146077,0.5487212673431352,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed074.json
+FPs,xgb,XGBoost,75,0.45226625226625233,0.45119589977220953,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed075.json
+FPs,xgb,XGBoost,76,0.5550443243625062,0.5381911368813419,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed076.json
+FPs,xgb,XGBoost,77,0.4711716524216524,0.4834593083454132,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed077.json
+FPs,xgb,XGBoost,78,0.5869502130865767,0.5711120314764961,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed078.json
+FPs,xgb,XGBoost,79,0.3926535900967719,0.4274746324290743,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed079.json
+FPs,xgb,XGBoost,80,0.5077111440747804,0.5062072892938496,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed080.json
+FPs,xgb,XGBoost,81,0.5153930770408043,0.5238092772830814,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed081.json
+FPs,xgb,XGBoost,82,0.4427048015116196,0.4566110996065438,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed082.json
+FPs,xgb,XGBoost,83,0.5530417814508723,0.5097225098364051,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed083.json
+FPs,xgb,XGBoost,84,0.4380472852063761,0.46031787119486434,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed084.json
+FPs,xgb,XGBoost,85,0.5828259282804737,0.5973907641333609,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed085.json
+FPs,xgb,XGBoost,86,0.5337748110475383,0.52625284738041,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed086.json
+FPs,xgb,XGBoost,87,0.5374530562030563,0.5286032304825015,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed087.json
+FPs,xgb,XGBoost,88,0.52027287737515,0.5078535928763719,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed088.json
+FPs,xgb,XGBoost,89,0.4781177891973346,0.48613584593083453,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed089.json
+FPs,xgb,XGBoost,90,0.5317015581220127,0.5141230068337129,results_complete/FPs/xgb/perm/summary_FPs_xgb_perm_seed090.json

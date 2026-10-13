@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived results, please cite the associated article and archived software release."
+title: "Reliable model validation under class imbalance: reproducibility code and results"
+type: software
+authors:
+  - family-names: "Udu"
+    given-names: "Amadi Gabriel"
+  - family-names: "Lecchini-Visintini"
+    given-names: "Andrea"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/AmadiGabriel/reliable-validation-class-imbalance"
+keywords:
+  - class imbalance
+  - permutation testing
+  - nested cross-validation
+  - feature selection
+  - absolute rarity
+  - rare events
+  - model validation
+  - machine learning

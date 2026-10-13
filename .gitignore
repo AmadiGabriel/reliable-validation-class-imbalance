@@ -1,0 +1,34 @@
+# Raw/restricted data
+engine_data/
+data/raw/
+*.csv~
+.DS_Store
+
+# Large experimental working directories
+results_complete/
+results_mac/
+alice_results_import/
+benchmark_mac_12/
+smoke_mac_lgbm/
+perm_max/
+
+# Archives and logs
+*.tar.gz
+*.log
+*.out
+*.err
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Locally reproduced outputs
+results_reproduced/
+figures_reproduced/
