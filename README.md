@@ -232,6 +232,13 @@ be added following publication of version 1.0.0.
 This research used the ALICE High Performance Computing Facility at the
 University of Leicester.
 
+## Archived release
+
+The reproducibility software and derived results associated with version
+`v1.0.0` are archived on Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.23348132
+
 ## Licence
 
 The source code in this repository is released under the MIT License. See
